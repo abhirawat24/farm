@@ -11,7 +11,7 @@ const AudioList = () => {
   return (
     <div className="container p-4 rounded-lg shadow-lg mt-20 w-full">
       {/* Free Audio Section */}
-      <div className="freeAudio mb-8">
+      <div className="freeAudio mb-8" id='freeAudio'>
         <h2 className="text-2xl font-semibold mb-4">Free Audio</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {free_audio_list.length > 0 ? (
@@ -28,7 +28,7 @@ const AudioList = () => {
       </div>
 
       {/* Premium Audio Section */}
-      <div className="premiumAudio">
+      <div className="premiumAudio" id='premiumAudio'>
         <h2 className="text-2xl font-semibold mb-4">Premium Audio</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {paid_audio_list.length > 0 ? (

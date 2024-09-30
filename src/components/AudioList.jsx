@@ -34,7 +34,7 @@ const AudioList = () => {
           {paid_audio_list.length > 0 ? (
             paid_audio_list.map((track, index) => (
               <div key={`${track.title}-${index}`} className="audioItem bg-white p-4 rounded-lg shadow-md">
-                <img src={track.image_url} alt={track.title} className="w-full h-[200px] object-cover rounded-lg mb-4" />
+                <img src={track.image_url} alt={track.title} className="w-full h-[200px] object-cover rounded-lg mb-4 p-8" />
                 <p className="text-lg font-medium">{track.title} by {track.artist}</p>
               </div>
             ))

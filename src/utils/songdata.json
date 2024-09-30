@@ -1,109 +1,108 @@
 {
-    "audio_lists": {
-      "free_audio_list": [
-        {
-          "title": "Song Title 1",
-          "artist": "Artist Name 1",
-          "image_url": "https://example.com/image1.jpg"
-        },
-        {
-          "title": "Song Title 2",
-          "artist": "Artist Name 2",
-          "image_url": "https://example.com/image2.jpg"
-        },
-        {
-          "title": "Song Title 3",
-          "artist": "Artist Name 3",
-          "image_url": "https://example.com/image3.jpg"
-        },
-        {
-          "title": "Song Title 4",
-          "artist": "Artist Name 4",
-          "image_url": "https://example.com/image4.jpg"
-        },
-        {
-          "title": "Song Title 5",
-          "artist": "Artist Name 5",
-          "image_url": "https://example.com/image5.jpg"
-        },
-        {
-          "title": "Song Title 6",
-          "artist": "Artist Name 6",
-          "image_url": "https://example.com/image6.jpg"
-        },
-        {
-          "title": "Song Title 7",
-          "artist": "Artist Name 7",
-          "image_url": "https://example.com/image7.jpg"
-        },
-        {
-          "title": "Song Title 8",
-          "artist": "Artist Name 8",
-          "image_url": "https://example.com/image8.jpg"
-        },
-        {
-          "title": "Song Title 9",
-          "artist": "Artist Name 9",
-          "image_url": "https://example.com/image9.jpg"
-        },
-        {
-          "title": "Song Title 10",
-          "artist": "Artist Name 10",
-          "image_url": "https://example.com/image10.jpg"
-        }
-      ],
-      "paid_audio_list": [
-        {
-          "title": "Paid Song Title 1",
-          "artist": "Paid Artist Name 1",
-          "image_url": "https://example.com/paid_image1.jpg"
-        },
-        {
-          "title": "Paid Song Title 2",
-          "artist": "Paid Artist Name 2",
-          "image_url": "https://example.com/paid_image2.jpg"
-        },
-        {
-          "title": "Paid Song Title 3",
-          "artist": "Paid Artist Name 3",
-          "image_url": "https://example.com/paid_image3.jpg"
-        },
-        {
-          "title": "Paid Song Title 4",
-          "artist": "Paid Artist Name 4",
-          "image_url": "https://example.com/paid_image4.jpg"
-        },
-        {
-          "title": "Paid Song Title 5",
-          "artist": "Paid Artist Name 5",
-          "image_url": "https://example.com/paid_image5.jpg"
-        },
-        {
-          "title": "Paid Song Title 6",
-          "artist": "Paid Artist Name 6",
-          "image_url": "https://example.com/paid_image6.jpg"
-        },
-        {
-          "title": "Paid Song Title 7",
-          "artist": "Paid Artist Name 7",
-          "image_url": "https://example.com/paid_image7.jpg"
-        },
-        {
-          "title": "Paid Song Title 8",
-          "artist": "Paid Artist Name 8",
-          "image_url": "https://example.com/paid_image8.jpg"
-        },
-        {
-          "title": "Paid Song Title 9",
-          "artist": "Paid Artist Name 9",
-          "image_url": "https://example.com/paid_image9.jpg"
-        },
-        {
-          "title": "Paid Song Title 10",
-          "artist": "Paid Artist Name 10",
-          "image_url": "https://example.com/paid_image10.jpg"
-        }
-      ]
-    }
+  "audio_lists": {
+    "free_audio_list": [
+      {
+        "title": "Chasing Stars",
+        "artist": ":- Luna Ray",
+        "image_url": "https://shorturl.at/wYheS"
+      },
+      {
+        "title": "Midnight Groove",
+        "artist": ":- Echo Beats",
+        "image_url": "https://shorturl.at/URmtz"
+      },
+      {
+        "title": "Waves of Tomorrow",
+        "artist": ":- Sophie Sky",
+        "image_url": "https://shorturl.at/jIifr"
+      },
+      {
+        "title": "Golden Horizon",
+        "artist": ":- The Soundscape",
+        "image_url": "https://shorturl.at/1PN02"
+      },
+      {
+        "title": "Dancing Lights",
+        "artist": ":- Retro Vibes",
+        "image_url": "https://shorturl.at/DLuR4"
+      },
+      {
+        "title": "Lost in Time",
+        "artist": ":- Future Echo",
+        "image_url": "https://shorturl.at/wYheS"
+      },
+      {
+        "title": "Rhythm of the Night",
+        "artist": ":- Nina Pulse",
+        "image_url": "https://shorturl.at/URmtz"
+      },
+      {
+        "title": "Whispers of the Wind",
+        "artist": ":- Celestial Harmony",
+        "image_url": "https://shorturl.at/jIifr"
+      },
+      {
+        "title": "Firefly Dreams",
+        "artist": ":- The Melodic Journey",
+        "image_url": "https://shorturl.at/1PN02"
+      },
+      {
+        "title": "Echoes of the Past",
+        "artist": ":- Urban Soul",
+        "image_url": "https://shorturl.at/DLuR4"
+      }
+    ],
+    "paid_audio_list": [
+      {
+        "title": "Velvet Skies",
+        "artist": ":- Amber Moon",
+        "image_url": "https://shorturl.at/wYheS"
+      },
+      {
+        "title": "Eternal Waves",
+        "artist": ":- Sonic Dreamers",
+        "image_url": "https://shorturl.at/URmtz"
+      },
+      {
+        "title": "Starlit Path",
+        "artist": ":- Jade Night",
+        "image_url": "https://shorturl.at/jIifr"
+      },
+      {
+        "title": "Heartbeats",
+        "artist": ":- Pulse Collective",
+        "image_url": "https://shorturl.at/1PN02"
+      },
+      {
+        "title": "Neon Dreams",
+        "artist": ":- Electric Rhythms",
+        "image_url": "https://shorturl.at/DLuR4"
+      },
+      {
+        "title": "Beyond the Horizon",
+        "artist": ":- Vivid Echoes",
+        "image_url": "https://shorturl.at/wYheS"
+      },
+      {
+        "title": "Celestial Voyage",
+        "artist": ":- Astral Sounds",
+        "image_url": "https://shorturl.at/URmtz"
+      },
+      {
+        "title": "Mystic Journey",
+        "artist": ":- Zenith Wave",
+        "image_url": "https://shorturl.at/jIifr"
+      },
+      {
+        "title": "Sapphire Dreams",
+        "artist": ":- Blue Horizon",
+        "image_url": "https://shorturl.at/1PN02"
+      },
+      {
+        "title": "Infinite Melodies",
+        "artist": ":- Harmony Quest",
+        "image_url": "https://shorturl.at/DLuR4"
+      }
+    ]
   }
-  
+}
